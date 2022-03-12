@@ -1,3 +1,9 @@
+# Pomysły:
+- wiele map:
+  - mają różne boty
+  - różne questy
+  - różne itemki w sklepiku  
+
 # FRONT
 - Tworzenie postaci
 - Logowanie & rejestracja
