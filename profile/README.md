@@ -45,6 +45,7 @@
   + front (wyświetlanie okienek, przechodzenie między nimi, podstawowe interakcje)
 - 4 (15.04) - drugie postępy
   + podpięcie backendu z frontendem (żeby front pobierał dane z serwera, a nie z mockowanych danych)
-- 5 (29.04) - coś
+- 5 (29.04) - trzecie postępy
+  + zaimplementowanie zaawansowanych mechanik (walka na arenie, system gildyjny, questy)
 - 6 (13.05) - prezentacja gotowego
 - 7 (27.05) - oddawanie, podsumowanie
