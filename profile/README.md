@@ -40,7 +40,9 @@
 
 # Harmonogram
 - 2 (18.03) - klasy, widoki, harmonogram
-- 3 (01.04) - coś
+- 3 (01.04) - pierwsze postępy
+- + backend (podpięcie do bazy, postawienie serwera)
+- + front (wyświetlanie okienek, przechodzenie między nimi, podstawowe interakcje)
 - 4 (15.04) - coś
 - 5 (29.04) - coś
 - 6 (13.05) - prezentacja gotowego
