@@ -3,6 +3,9 @@
   - mają różne boty
   - różne questy
   - różne itemki w sklepiku  
+  - questy wyczerpują - postać musi iść 
+  - sposób zarobku pieniędzy typu warta
+  - karczma, żeby się zregenerować
 
 # Front
 - Tworzenie postaci
