@@ -44,7 +44,7 @@
   + backend (podpięcie do bazy, inicjalizacja serwera, pierwsze testy)
   + front (wyświetlanie okienek, przechodzenie między nimi, podstawowe interakcje)
 - 4 (15.04) - drugie postępy
-  + podpięcie backendu z frontendem
+  + podpięcie backendu z frontendem (żeby front pobierał dane z serwera, a nie z mockowanych danych)
 - 5 (29.04) - coś
 - 6 (13.05) - prezentacja gotowego
 - 7 (27.05) - oddawanie, podsumowanie
