@@ -23,6 +23,7 @@
   - Gildia <- twoja lub jej brak (?) - podlista graczy
   - Nasza postać - wszystkie atrybuty + skille + przedmioty naszego gracza
   - Walka na arenie
+ 
 ## Walka w misji:
 - 1 vs 1 mob
 - 1 vs wiele mobów
