@@ -4,7 +4,7 @@
   - różne questy
   - różne itemki w sklepiku  
 
-# FRONT
+# Front
 - Tworzenie postaci
 - Logowanie & rejestracja
 - Menu główne
