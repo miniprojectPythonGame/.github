@@ -37,3 +37,11 @@
 - Zrobić klasy postaci i podstawowych obiektów
 - Ogarnąć server
 - Połączenie z bazą
+
+# Harmonogram
+2 (18.03) - klasy, widoki, harmonogram
+3 (01.04) - coś
+4 (15.04) - coś
+5 (29.04) - coś
+6 (13.05) - prezentacja gotowego
+7 (27.05) - oddawanie, podsumowanie
