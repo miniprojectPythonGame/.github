@@ -42,7 +42,7 @@
 - Ogarnąć server
 - Połączenie z bazą
 
-# Harmonogram
+# Harmonogram gra
 - 2 (18.03) - klasy, widoki, harmonogram
 - 3 (01.04) - pierwsze postępy
   + backend (podpięcie do bazy, inicjalizacja serwera, pierwsze testy)
@@ -53,3 +53,5 @@
   + zaimplementowanie zaawansowanych mechanik (walka na arenie, system gildyjny, questy)
 - 6 (13.05) - prezentacja gotowego
 - 7 (27.05) - oddawanie, podsumowanie
+
+# Harmonogram baza danych
