@@ -3,7 +3,7 @@
   - mają różne boty
   - różne questy
   - różne itemki w sklepiku  
-  - questy wyczerpują - postać musi iść 
+  - questy wyczerpują - postać musi iść do karczmy
   - sposób zarobku pieniędzy typu warta
   - karczma, żeby się zregenerować
 
