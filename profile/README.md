@@ -19,16 +19,19 @@
   - Weapon shop - randomowo wygenerowana lista broni na poziomie gracza
   - Magic shop - randomowo wygenerowana lista potków, akcesoriów na poziomie gracza
   - Armor shop - randomowo wygenerowana lista zbroi na poziomie gracza
+  - Nasza postać - wszystkie atrybuty + skille + przedmioty naszego gracza
+  - Walka na arenie
+  - NIE TERAZ
   - Stable - lista wierzchowców
   - Blacksmith (?) - wymiana posiadanych surowców na możliwe itemy
   - Targ najemników
   - Cechy miejskie (?) - lista specjalistów, którzy za pieniądze dają skilla
   - Gildia <- twoja lub jej brak (?) - podlista graczy
-  - Nasza postać - wszystkie atrybuty + skille + przedmioty naszego gracza
-  - Walka na arenie
  
 ## Walka w misji:
 - 1 vs 1 mob
+
+## NIE TERAZ
 - 1 vs wiele mobów
 - 1 + boty vs 1 mob
 - 1 + boty vs wiele mobów
@@ -51,7 +54,7 @@
   + podpięcie backendu z frontendem (żeby front pobierał dane z serwera, a nie z mockowanych danych)
 - 5 (29.04) - trzecie postępy
   + zaimplementowanie zaawansowanych mechanik (walka na arenie, system gildyjny, questy)
-- 6 (13.05) - prezentacja gotowego
+- 6 (13.05) - dalsze poprawki gameplay'u
 - 7 (27.05) - oddawanie, podsumowanie
 
 # Harmonogram baza danych
