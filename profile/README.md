@@ -1,3 +1,10 @@
+# W skrócie o grze:
+- wzorowana na Shakes & Fidget oraz D&D 
+- osadzona w świecie fantasy 
+- gracze mogą walczyć ze sobą, chodzić na misje i rozbudowywać swoje postacie 
+- mocno rozbudowany system handlu, stąd baza w PostgreSQL
+
+
 # Pomysły:
 - wiele map:
   - mają różne boty
