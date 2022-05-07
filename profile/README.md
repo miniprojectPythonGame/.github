@@ -13,30 +13,6 @@
   - sposób zarobku pieniędzy typu warta
   - karczma, żeby się zregenerować
 
-# Front
-- Tworzenie postaci
-- Logowanie & rejestracja
-- Menu główne
-- Okienko:
-  - Tawerny - tablica ogłoszeń (lista questów)
-  - Arena - lista graczy (ewentualnie 3 proponowanych na podobnym poziomie)
-  - sala chwały (?) - ranking na podstawie PCh
-  - Market (?) - lista itemów wystawiona po podanej cenie przez innych graczy
-  - Weapon shop - randomowo wygenerowana lista broni na poziomie gracza
-  - Magic shop - randomowo wygenerowana lista potków, akcesoriów na poziomie gracza
-  - Armor shop - randomowo wygenerowana lista zbroi na poziomie gracza
-  - Nasza postać - wszystkie atrybuty + skille + przedmioty naszego gracza
-  - Walka na arenie
-  - NIE TERAZ
-  - Stable - lista wierzchowców
-  - Blacksmith (?) - wymiana posiadanych surowców na możliwe itemy
-  - Targ najemników
-  - Cechy miejskie (?) - lista specjalistów, którzy za pieniądze dają skilla
-  - Gildia <- twoja lub jej brak (?) - podlista graczy
- 
-## Walka w misji:
-- 1 vs 1 mob
-
 ## NIE TERAZ
 - 1 vs wiele mobów
 - 1 + boty vs 1 mob
@@ -45,11 +21,6 @@
 - 2 vs wiele mobów
 - 2 + boty vs 1 mob (?)
 - 2 + boty vs wiele mobów (?)
-
-# Backend
-- Zrobić klasy postaci i podstawowych obiektów
-- Ogarnąć server
-- Połączenie z bazą
 
 # Harmonogram gra
 - 2 (18.03) - klasy, widoki, harmonogram
@@ -63,4 +34,18 @@
 - 6 (27.05) - dalsze poprawki gameplay'u
 - 7 (10.06) - oddawanie, podsumowanie
 
-# Harmonogram baza danych
+
+## Registration
+![alt text](https://github.com/miniprojectPythonGame/.github/blob/main/frontend/images/register.png?raw=true)
+
+## Login
+![alt text](https://github.com/miniprojectPythonGame/.github/blob/main/frontend/images/login.png?raw=true)
+
+## Hero select
+![alt text](https://github.com/miniprojectPythonGame/.github/blob/main/frontend/images/hero_select.png?raw=true)
+
+## Map view
+![alt text](https://github.com/miniprojectPythonGame/.github/blob/main/frontend/images/map_view.png?raw=true)
+
+
+
