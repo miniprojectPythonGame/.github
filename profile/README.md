@@ -48,7 +48,7 @@
 ![alt text](https://github.com/miniprojectPythonGame/.github/blob/main/frontend/images/map_view.png?raw=true)
 
 
-# Wniąski Backend - Piotr Witek ~Viciooo
+# Wnioski Backend - Piotr Witek ~Viciooo
 - TDD to moim zdaniem jedyne sensowne podejście przy większych projektach, braki automatycznych testów sprawiły, że trzeba było robić manualne co sprawiało ogromny ból 
 - większy projekt bez testów to tykająca bomba. Chciałbyś zmienić ten głupi camelCase na_coś_takiego? Pojawia się regresja o której przekonujesz się po 2 dniach dzięki losowemu printowi
 - ręczne mapowanie bazy danych jest straszliwie żmudne i mało eleganckie - użyj Django. Może i setup zajmie z 6h jak nigdy tego nie robiłeś ale warto, w gratisie dostajesz jeszcze admina do łatwiejszego wprowadzania rzeczy przez UI.
