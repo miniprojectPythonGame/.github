@@ -50,9 +50,9 @@
 
 # Wnioski Backend - Piotr Witek ~Viciooo
 - TDD to moim zdaniem jedyne sensowne podejście przy większych projektach, braki automatycznych testów sprawiły, że trzeba było robić manualne co sprawiało ogromny ból 
-- większy projekt bez testów to tykająca bomba. Chciałbyś zmienić ten głupi camelCase na_coś_takiego? Pojawia się regresja o której przekonujesz się po 2 dniach dzięki losowemu printowi
-- ręczne mapowanie bazy danych jest straszliwie żmudne i mało eleganckie - użyj Django. Może i setup zajmie z 6h jak nigdy tego nie robiłeś ale warto, w gratisie dostajesz jeszcze admina do łatwiejszego wprowadzania rzeczy przez UI.
-- pisanie komentarzy nie boli - po 2 miesiącach czasami ciężko zgadnąć o co Ci chodziło o 3:27 PM jak dodałeś ten źle dodany feature
+- większy projekt bez testów to tykająca bomba. Zmiana czegokolwiek to ryzyko pojawienia się regresji o której możesz się przekonać 2 dni później
+- ręczne mapowanie bazy danych jest straszliwie żmudne i mało eleganckie - lepiej użyć Django. Może i setup zajmie z 6h jak nigdy się tego nie robiło ale warto, w gratisie dostajesz jeszcze admina do łatwiejszego wprowadzania rzeczy przez UI.
+- pisanie komentarzy nie boli - po 2 miesiącach czasami ciężko zgadnąć celowość napisanych funkcji 
 - typingi ❤️. Oprócz tego, że śliczne to jeszcze mówią nieraz więcej niż nazwa.
 - pisząc backend dobrze myśleć o frontendzie. Myślę, że to nawet u nas się udało, chociaż można lepiej.
 - ogólnie to fajny ten projekt, bardzo pomógł w dostaniu stażu jako Python Dev :))
